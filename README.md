@@ -32,4 +32,16 @@ Complete the following chips
 - DMux8Way
 </details>
 
+### Project 2: Boolean Arithmetic
+<details>
+<summary>Objective</summary>
+<br>
+Complete the following chips
+
+- HalfAdder
+- FullAdder
+- Add16
+- Inc16
+- ALU
+</details>
 
