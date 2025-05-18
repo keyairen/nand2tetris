@@ -45,3 +45,19 @@ Complete the following chips
 - ALU
 </details>
 
+### Project 3: Memory
+<details>
+<summary>Objective</summary>
+<br>
+Complete the following chips
+
+- DFF (given)
+- Bit
+- Register
+- RAM8
+- RAM64
+- RAM512
+- RAM4K
+- RAM16K
+- PC
+</details>
